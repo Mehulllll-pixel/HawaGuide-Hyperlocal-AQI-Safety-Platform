@@ -3,7 +3,9 @@
 > AI-powered hyperlocal air quality forecasting and personalized outdoor safety recommendations using satellite data, spatial interpolation, and machine learning.
 
 <p align="center">
-  <img src="assets/dashboard.png" width="900" alt="HawaGuide Dashboard">
+  <p align="center">
+  <img src="Screenshot%202026-06-27%20163501.png" width="100%" alt="HawaGuide Dashboard">
+</p>
 </p>
 
 <p align="center">
